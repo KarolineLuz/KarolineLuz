@@ -1,7 +1,7 @@
 
 ## Olá, Bem-Vindos !  👋🏾
 
-Meu nome é Karoline Luz, sou estudante de engenharia de software na Universidade de Brasília (UnB - Gama) e atualmente estou trilhando um caminho emocionante na área de Tecnologia da Informação (TI). Desde o meu primeiro encontro com computadores, admiro a forma como a tecnologia transforma ideias em realidades tangíveis, otimizando processos e melhorando a forma como vivemos e trabalhamos.
+Meu nome é Karoline Luz, sou estudante de engenharia de software na Universidade de Brasília (UnB - Gama) e atualmente estou trilhando um caminho emocionante na área de Tecnologia da Informação (TI). Desde o meu primeiro encontro com computadores, admiro a forma de como a tecnologia transforma ideias em realidades tangíveis, otimizando processos e melhorando a forma como vivemos e trabalhamos.
 ***
 ## 🛠️ Meu Desenvolvimento
 
